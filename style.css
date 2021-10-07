@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #001428;
+}
+.support {
+  margin-left: 20px;
+  font-family: "Rubik", sans-serif;
+  height: 20px;
+  font-weight: 10;
+  font-size: 13px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+header {
+  justify-content: space-between;
+  margin-left: 920px;
+  margin-top: 5px;
+  z-index: 1000;
+}
+.line {
+  background-color: rgba(95, 93, 93, 0.404);
+  margin-top: 5px;
+  height: 3px;
+  border: none;
+}
+.logo {
+  width: 136px;
+  margin-left: 210px;
+  margin-top: 10px;
+  z-index: 1000;
+}
+.products {
+  margin-left: 20px;
+  font-family: "Rubik", sans-serif;
+  height: 80px;
+  font-weight: 10;
+  font-size: 15px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+.align {
+  justify-content: space-between;
+  margin-left: 200px;
+  text-decoration: none;
+  display: inline-table;
+}
